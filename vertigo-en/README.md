@@ -14,7 +14,7 @@ Introduction and backstory leading to the main events.
 | File | Title | Description |
 |------|-------|-------------|
 | [tt#0.txt](./ch0/tt#0.txt) | Disclaimer | Standard fiction disclaimer |
-| [tt#1.txt](./ch0/tt#1.txt) | — | Empty file (placeholder) |
+| [tt#1.txt](./ch0/tt#1.txt) | de_vertigo Map | Pozzi on CS:GO map, hunting furries with lasers |
 | [tt#2.txt](./ch0/tt#2.txt) | Prime | Pozzi's "prime mode" battle against 1448 furries |
 | [tt#3.txt](./ch0/tt#3.txt) | Cabbage Girls | Encounter with strange singing girls |
 | [tt#4.txt](./ch0/tt#4.txt) | Not GTA | Meeting MORGENSTERN and his helicopter crash |

@@ -41,7 +41,7 @@ vertigo-en/          # English translation (AI-generated)
 
 | Chapter | Files | Description |
 |---------|-------|-------------|
-| **Ch. 0** | `tt#0` → `tt#10` | Prologue: Prime mode, cabbage girls, nuclear reactor |
+| **Ch. 0** | `tt#0` → `tt#10` | Prologue: de_vertigo map, prime mode, cabbage girls |
 | **Ch. 1** | `cs#1` → `cs#7` | Casino Arc: Jackpot → Nuclear Sunset |
 | **Ch. 2** | `mm#1` → `mm#5` | Dream Arc: Saratov captivity → Escape |
 | **Ch. 3** | `sp#1` → `sp#8` | Airspace: Helicopter crash → Black hole |
