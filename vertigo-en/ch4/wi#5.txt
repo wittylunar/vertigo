@@ -1,0 +1,89 @@
+ch4-wi#5: The Hanged Man
+
+Pozzi walked toward the light. The corridor was endless, walls changed color, but he was used to it by now. Finally a door appeared ahead — simple, wooden, without a sign. That very light poured from behind it and music played:
+
+Danger, danger — at every step...
+
+— My song, — Pozzi grinned and pushed the door.
+
+The room was small, like a cell. Dim light bulb on the ceiling. Empty table. Chair. And on the chair... a person stood. Or rather, hung. With a noose around his neck, tied to a hook in the ceiling.
+
+Pozzi froze, because the person was wearing a plaid shirt. Brown hair hung over his face. A notebook stuck out of his pocket.
+
+— This is... — Pozzi whispered. — Me?
+
+He didn't believe it. Walked closer. The body swayed slightly, though there was no draft. Pozzi reached out to touch, to check...
+
+His hand went right through. Like through air. The body didn't even flinch, only the image distorted for a second, like ripples on water.
+
+— Phantom, — Pozzi realized. — Glitch.
+
+And at that moment it all began.
+
+First the light went out. Then it flashed again, but now everything around was different. The walls disappeared, turning into an infinite purple-black space. No floor, no ceiling — only a colorful abyss that pulsed like a living thing.
+
+Pozzi looked at his hands. They glitched too — fingers blurred, sometimes became transparent, sometimes multiplied. A red inscription hung on his chest, where his body should be:
+
+ERROR
+Texture missing
+Model: player_pozzi failed to load
+
+— Holy shit, — Pozzi exhaled. — I became a glitch myself.
+
+He looked around. Everywhere he looked, the same red inscriptions hung. Some moved, some flickered. Instead of furniture and walls — emptiness and error messages.
+
+Pozzi tried to take a step, but his legs didn't obey. Or rather, they obeyed, but moved the wrong way. He wanted to go forward — but went left. Wanted to turn — but was turned backward.
+
+— What the... — he began, but his voice also glitched: it either disappeared or sped up to a squeak.
+
+Suddenly another inscription floated out of the purple void, big, right in front of his face:
+
+WARNING! UNIDENTIFIED BUG DETECTED
+NAME: POZZI (POZZI)
+STATUS: TRIPPING BADLY
+RECOMMENDATIONS: REBOOT REALITY
+
+— What reboot? — Pozzi tried to scream, but only a line flew out of his mouth:
+
+"std::cout << 'HELP' << std::endl;"
+
+The inscription flickered and changed to another:
+
+SYSTEM: POZZI DEFRAGMENTATION LAUNCHED
+PROGRESS: 1%... 3%... 7%...
+
+Pozzi felt himself being torn apart. His body broke into pieces, each piece flew in its own direction, but he still felt whole. Memories flashed through his head: vertigo, furries, casino, Bill, FACE, MORGENSTERN, wittylunar. Everything mixed into one huge glitch.
+
+PROGRESS: 34%... 51%... 68%...
+
+— 68, — Pozzi managed to think. — My number...
+
+PROGRESS: 99%... 100%
+
+SYSTEM: DEFRAGMENTATION COMPLETE
+POZZI GARBAGE COLLECTOR: 1583 DEAD OBJECTS DETECTED
+MEMORY CLEANUP EXECUTING...
+
+And everything disappeared. Purple color, inscriptions, errors. Only blackness and silence remained.
+
+Pozzi hung in this blackness, not feeling his body. Only one thought: "Am I dead? Or is this another dream?"
+
+A voice came from the darkness. Cold, mechanical:
+
+— Pozzi. Can you hear me?
+
+— Who's this? — he asked mentally.
+
+— I'm the system administrator. You created too many errors. Will have to format you.
+
+— But I'm real!
+
+— Nothing's real. You're all just a set of numbers. Goodbye, Pozzi.
+
+And silence. Only somewhere far-far away music began to play, very quietly:
+
+Danger, danger — at every step...
+
+And then nothing.
+
+(To be continued?)

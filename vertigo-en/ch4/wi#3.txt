@@ -1,0 +1,57 @@
+ch4-wi#3: 67th Floor
+
+They flew onto the 67th floor, breathless but full of adrenaline. The staircase behind thundered — gentleman skeletons didn't lag behind, but kept their distance for now.
+
+— Where's the console? — MORGENSTERN croaked, looking around.
+
+The floor looked strange. Instead of ordinary concrete walls — server racks, blinking lights, wires underfoot. It smelled of ozone and burnt electrical tape. A guy sat in a chair in the center of the hall.
+
+About fifteen years old, in a green hoodie with the hood pulled over his eyes. He didn't turn at the noise, didn't flinch. Just sat and stared into the emptiness in front of him. But holograms hung in the air before him. Text windows, graphs, diagrams. The guy's fingers quickly ran across an invisible keyboard.
+
+— Hey, kid! — Pozzi shouted. — Who are you?
+
+The guy slowly turned his head. Eyes gleamed from under the hood — cold, empty, like a terminal. He didn't answer, just smirked and stared back at the holograms.
+
+— I don't like this, — FACE whispered, stepping back a step.
+
+The guy's fingers made a final movement. A command appeared on the hologram:
+
+tar -czf face.tar.xz FACE && mv face.tar.xz /dev/zero
+
+— What's he... — FACE didn't finish when his body began to distort. It compressed, twisted, as if being passed through a meat grinder.
+
+— A-A-A! — FACE screamed, but the cry cut off, and he disappeared. Only a small note remained on the floor: "face.tar.xz successfully sent to /dev/zero".
+
+— God damn it! — MORGENSTERN raised his guns, but the guy didn't even look in his direction. He just typed a new command:
+
+dd if=MORGENSTERN of=/dev/null bs=1M
+
+MORGENSTERN jerked, froze, and began to dissolve. First his legs disappeared, then his torso, then his hands with guns. He only managed to whisper:
+
+— But I'm a clone... second... how...
+
+And disappeared. Only a puddle of broken pixel remained on the floor.
+
+Pozzi stood, not believing his eyes. Two of his new partners — FACE and MORGENSTERN 2.0 — were destroyed in a second by some kid in a green hoodie.
+
+— You... who are you? — Pozzi squeezed out, clutching the GTA 67 box.
+
+The guy finally turned to him. Smiled. And with a voice full of static, said:
+
+— My name is wittylunar. I'm the administrator of this server. And you, Pozzi... you're an extra process here.
+
+He started typing something on the hologram. Pozzi felt a strange tingling. His hands began to shake, the image before his eyes began to double, triple, disintegrate into pixels.
+
+— What the... — he tried to take a step, but his legs didn't obey. His body began to glitch: his right hand disappeared for a second, then reappeared, but in a different place.
+
+— I'll just delete you from the system, — wittylunar said indifferently. — You're taking up too much memory.
+
+Pozzi fell to his knees. The notebook fell out of his pocket and opened to the last page. Numbers 1538 began to flicker, change: 1539, 1540, 1541... They grew by themselves, without his participation.
+
+— No... — Pozzi whispered. — I'm not a glitch... I'm real...
+
+— You all say that, — wittylunar smirked and pressed Enter.
+
+Pozzi screamed.
+
+(To be continued...)

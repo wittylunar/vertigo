@@ -71,6 +71,214 @@ Helicopter flight, US airspace violation, and the Soviet casino.
 
 ---
 
+### [Chapter 4: Glitch Arc](./ch4/)
+Pozzi falls through the black hole into a glitched reality with Venom, hackers, and skeleton armies.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [wi#-1234.txt](./ch4/wi#-1234.txt) | Venom Ban & Africa Casino | Venom gets banned, Pozzi loses Africa's population |
+| [wi#1.txt](./ch4/wi#1.txt) | Galaxy ORH-6218 | Flying through space, Ancient Rus casino |
+| [wi#2.txt](./ch4/wi#2.txt) | Rap Reinforcement | Meeting FACE and MORGENSTERN clone |
+| [wi#3.txt](./ch4/wi#3.txt) | 67th Floor | Encounter with wittylunar, the hacker admin |
+| [wi#4.txt](./ch4/wi#4.txt) | Sudo rm -rf | Reality deletion, falling to Floor 0 |
+| [wi#5.txt](./ch4/wi#5.txt) | The Hanged Man | Phantom Pozzi, system defragmentation |
+| [wi#6.txt](./ch4/wi#6.txt) | Parasite | Joker, system clown, Glitch Venom |
+| [wi#7.txt](./ch4/wi#7.txt) | Venom in the Casino | Venom vs skeletons, escape by helicopter |
+| [wi#2034.txt](./ch4/wi#2034.txt) | President of Albania | Helicopter crash, Albania, bomb escape |
+
+---
+
+### [Chapter 5: Arctic Arc](./ch5/)
+Pozzi lands in the Arctic, facing uwogylu and his penguin army.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [arg#1.txt](./ch5/arg#1.txt) | Arctic Ambush | Penguin hackers, uwogylu's hack attempt |
+| [arg#2.txt](./ch5/arg#2.txt) | Penguin Attack | Hypnotized penguins, hand-to-hand combat |
+| [arg#3.txt](./ch5/arg#3.txt) | Abandoned House | Hiding from skeletons summoned by uwogylu |
+| [arg#4.txt](./ch5/arg#4.txt) | Race with Death | Explosive bullets, running 27 km |
+| [arg#5.txt](./ch5/arg#5.txt) | Red Optimuses | Twenty Optimus Primes, hiding under snow |
+| [arg#6.txt](./ch5/arg#6.txt) | Escape on Water | Boat escape, arriving in Iraq |
+
+---
+
+### [Chapter 6: Iraq Arc](./ch6/)
+Pozzi arrives in Iraq, encountering Bomboclat phones, Dexter Morgan, and more chaos.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [irk#1.txt](./ch6/irk#1.txt) | Bomboclat | Rusted factory, Bomboclat phone explosion |
+| [irk#2.txt](./ch6/irk#2.txt) | Dust of Ages | Skeletons crumble from age, phone talks |
+| [irk#3.txt](./ch6/irk#3.txt) | Diamond Factory | Invisible walls, Dexter Morgan and skibidi toilets |
+| [irk#4.txt](./ch6/irk#4.txt) | Iraq Casino | Normal casino, killing the security guard |
+| [irk#5.txt](./ch6/irk#5.txt) | Jackpot and Ash | Winning Dubai's fortune, it turns to ash |
+| [irk#6.txt](./ch6/irk#6.txt) | Optimus without BIOS | Optimus Prime runs out of battery, hijacking a car |
+
+---
+
+### [Chapter 7: Finale](./ch7/)
+Pozzi returns home to Miami.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [mia#1.txt](./ch7/mia#1.txt) | Return to Miami | Skipping Baghdad, surfing in Miami, **The End** |
+
+---
+
+### [Chapter 8: Reboot](./ch8/)
+Pozzi wakes up in Vertigo 2.0 with reset counter and meets Luna.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [la#1.txt](./ch8/la#1.txt) | Reboot | Waking in Vertigo 2.0, counter zeroed |
+| [la#2.txt](./ch8/la#2.txt) | Neon City | Cyberpunk city, meeting Rocky |
+| [la#3.txt](./ch8/la#3.txt) | Hack | Hacking Arasaka, getting the chip |
+| [la#4.txt](./ch8/la#4.txt) | Chase | Chase in flying car, drones |
+| [la#5.txt](./ch8/la#5.txt) | Boss Corporat | Battle with Corporat at level 100 |
+| [la#6.txt](./ch8/la#6.txt) | New Level | Defeating Corporat, notebook returned |
+
+---
+
+### [Chapter 9: Author](./ch9/)
+Pozzi learns he's a character and becomes co-author of Vertigo.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [dm#1.txt](./ch9/dm#1.txt) | Dream Dimension | Waking in room, call from author |
+| [dm#2.txt](./ch9/dm#2.txt) | Author | Killing author through code, becoming author |
+| [dm#3.txt](./ch9/dm#3.txt) | Library of Worlds | Library of all Vertigo characters |
+| [dm#4.txt](./ch9/dm#4.txt) | Hall of Mirrors | Meeting alternative versions |
+| [dm#5.txt](./ch9/dm#5.txt) | System Test | Humanity test, paradox |
+| [dm#6.txt](./ch9/dm#6.txt) | New Author | Becoming co-author of Vertigo |
+
+---
+
+### [Chapter 10: Ocean](./ch10/)
+Pozzi and Luna travel through ocean and Atlantis.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [oc#1.txt](./ch10/oc#1.txt) | Ocean | Meeting ocean of oblivion, submarine |
+| [oc#2.txt](./ch10/oc#2.txt) | Underwater City | Atlantis, fish-man Aquaman |
+| [oc#3.txt](./ch10/oc#3.txt) | Void | Journey through void between levels |
+| [oc#4.txt](./ch10/oc#4.txt) | Room | Room of memories, talk with Luna |
+| [oc#5.txt](./ch10/oc#5.txt) | Elevator | Elevator goes sideways, mirror maze |
+| [oc#6.txt](./ch10/oc#6.txt) | Center of Maze | Mirror with real Pozzi, exit |
+
+---
+
+### [Chapter 11: Wasteland](./ch11/)
+Pozzi passes through post-apocalyptic wasteland and garden.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [vs#1.txt](./ch11/vs#1.txt) | Wasteland | Level 600, bunker with survivors |
+| [vs#2.txt](./ch11/vs#2.txt) | Bunker | Talk with old man, decision to go |
+| [vs#3.txt](./ch11/vs#3.txt) | Exodus | Five go, others stay |
+| [vs#4.txt](./ch11/vs#4.txt) | Garden | Level 700, garden with the First |
+| [vs#5.txt](./ch11/vs#5.txt) | Choice | Survivors stay in garden |
+| [vs#6.txt](./ch11/vs#6.txt) | Mountains | Level 800, climb to cave |
+
+---
+
+### [Chapter 12: Crystal](./ch12/)
+Pozzi charges notebook from crystal and gets the key.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [cv#1.txt](./ch12/cv#1.txt) | Cave | Level 900, heart of Vertigo |
+| [cv#2.txt](./ch12/cv#2.txt) | Charging | Charging notebook, 1000/2000 |
+| [cv#3.txt](./ch12/cv#3.txt) | Thousand | Level 1000, throne and key |
+| [cv#4.txt](./ch12/cv#4.txt) | Doors | Level 1100, hundreds of doors |
+| [cv#5.txt](./ch12/cv#5.txt) | Memories | Level 1200, childhood room |
+| [cv#6.txt](./ch12/cv#6.txt) | Crossroads | Level 1300, choosing the path |
+
+---
+
+### [Chapter 13: Time Machine](./ch13/)
+Pozzi sees past and future, meets his shadow.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [tm#1.txt](./ch13/tm#1.txt) | Time Machine | Level 1400, viewing the past |
+| [tm#2.txt](./ch13/tm#2.txt) | Choice | Viewing future, choosing path |
+| [tm#3.txt](./ch13/tm#3.txt) | Portals | Level 1500, choosing portal |
+| [tm#4.txt](./ch13/tm#4.txt) | Forest | Level 1600, living forest |
+| [tm#5.txt](./ch13/tm#5.txt) | Keeper | Old man in forest, shadow test |
+| [tm#6.txt](./ch13/tm#6.txt) | Shadow | Merging with his shadow |
+
+---
+
+### [Chapter 14: Sky](./ch14/)
+Pozzi flies to 1800th level and says goodbye to Luna.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [nf#1.txt](./ch14/nf#1.txt) | Sky | Level 1700, flight to island |
+| [nf#2.txt](./ch14/nf#2.txt) | Building | Level 1800, door home |
+| [nf#3.txt](./ch14/nf#3.txt) | Farewell | Luna stays in Vertigo |
+| [nf#4.txt](./ch14/nf#4.txt) | Door | Return to Miami |
+| [nf#5.txt](./ch14/nf#5.txt) | Notebook | Talk with inner voice |
+| [nf#6.txt](./ch14/nf#6.txt) | Return | First night home |
+
+---
+
+### [Chapter 15: Ghost](./ch15/)
+Pozzi passes through city of ghosts and mountains.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [gh#1.txt](./ch15/gh#1.txt) | Ghost | Level 1500, city of ghosts |
+| [gh#2.txt](./ch15/gh#2.txt) | Voices | Passing through fog wall |
+| [gh#3.txt](./ch15/gh#3.txt) | Wall | Pain and exit from fog |
+| [gh#4.txt](./ch15/gh#4.txt) | Mountain | Level 1600, climb to peak |
+| [gh#5.txt](./ch15/gh#5.txt) | Peak | View of all levels |
+| [gh#6.txt](./ch15/gh#6.txt) | Descent | Descent to 1700th |
+
+---
+
+### [Chapter 16: Shadows](./ch16/)
+Pozzi forgives everyone and makes a choice.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [sh#1.txt](./ch16/sh#1.txt) | Shadows | Level 1700, kingdom of shadows |
+| [sh#2.txt](./ch16/sh#2.txt) | Forgiveness | Forgiving Venom, skeletons, Corporat |
+| [sh#3.txt](./ch16/sh#3.txt) | Light | Exit to 1800th |
+| [sh#4.txt](./ch16/sh#4.txt) | Choice | Room of choice with windows to worlds |
+| [sh#5.txt](./ch16/sh#5.txt) | Decision | Choosing Miami with Luna |
+| [sh#6.txt](./ch16/sh#6.txt) | Fall | Falling to Miami |
+
+---
+
+### [Chapter 17: Reality](./ch17/)
+Pozzi lives ordinary life in Miami.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [rb#1.txt](./ch17/rb#1.txt) | Reality | Meeting the author |
+| [rb#2.txt](./ch17/rb#2.txt) | Friends | Meeting friends at cafe |
+| [rb#3.txt](./ch17/rb#3.txt) | Home | Return to apartment |
+| [rb#4.txt](./ch17/rb#4.txt) | Week | Week of ordinary life |
+| [rb#5.txt](./ch17/rb#5.txt) | Dream | Dream about stairs |
+| [rb#6.txt](./ch17/rb#6.txt) | Month | Meeting a girl |
+
+---
+
+### [Chapter 18: Finale](./ch18/)
+Pozzi lives happily and completes the story.
+
+| File | Title | Description |
+|------|-------|-------------|
+| [fn#1.txt](./ch18/fn#1.txt) | Finale Part 1 — Return | Morning in Miami, beach with friends |
+| [fn#2.txt](./ch18/fn#2.txt) | Finale Part 2 — Life | Year later, love and happiness |
+| [fn#3.txt](./ch18/fn#3.txt) | Finale Part 3 — Memory | Wedding after 5 years |
+| [fn#4.txt](./ch18/fn#4.txt) | Finale Part 4 — Children | Children after 10 years, fairy tale |
+| [fn#5.txt](./ch18/fn#5.txt) | Finale Part 5 — Old Age | 50 years later, conversation |
+| [fn#6.txt](./ch18/fn#6.txt) | Finale Part 6 — End | Final step into new story |
+
+---
+
 ## Story Summary
 
 **Pozzi** is a relentless furry-killer who keeps a notebook counting his kills. After winning a mysterious "DANGER" jackpot at a Las Vegas casino, he finds himself trapped in a 355-floor building filled with horrors. Along his descent, he encounters:
@@ -88,13 +296,13 @@ The story blends dark comedy, action, and absurdist fiction with video game logi
 
 ## Reading Order
 
-Read chapters in numerical order (ch0 → ch1 → ch2 → ch3), and within each chapter, read files in numerical order.
+Read chapters in numerical order (ch0 → ch1 → ch2 → ch3 → ch4 → ch5 → ch6 → ch7), and within each chapter, read files in numerical order.
 
 **Complete file order:**
 
 ```
 Chapter 0 (Prologue):
-ch0/tt#0.txt → tt#1.txt → tt#2.txt → tt#3.txt → tt#4.txt → tt#5.txt → 
+ch0/tt#0.txt → tt#1.txt → tt#2.txt → tt#3.txt → tt#4.txt → tt#5.txt →
 tt#6.txt → tt#7.txt → tt#8.txt → tt#9.txt → tt#10.txt
 
 Chapter 1 (Casino):
@@ -105,17 +313,64 @@ ch2/mm#1.txt → mm#2.txt → mm#3.txt → mm#4.txt → mm#5.txt
 
 Chapter 3 (Airspace):
 ch3/sp#1.txt → sp#2.txt → sp#3.txt → sp#4.txt → sp#5.txt → sp#6.txt → sp#7.txt → sp#8.txt
+
+Chapter 4 (Glitch):
+ch4/wi#-1234.txt → wi#1.txt → wi#2.txt → wi#2034.txt → wi#3.txt → wi#4.txt →
+wi#5.txt → wi#6.txt → wi#7.txt
+
+Chapter 5 (Arctic):
+ch5/arg#1.txt → arg#2.txt → arg#3.txt → arg#4.txt → arg#5.txt → arg#6.txt
+
+Chapter 6 (Iraq):
+ch6/irk#1.txt → irk#2.txt → irk#3.txt → irk#4.txt → irk#5.txt → irk#6.txt
+
+Chapter 7 (Original Finale):
+ch7/mia#1.txt
+
+Chapter 8 (Reboot):
+ch8/la#1.txt → la#2.txt → la#3.txt → la#4.txt → la#5.txt → la#6.txt
+
+Chapter 9 (Author):
+ch9/dm#1.txt → dm#2.txt → dm#3.txt → dm#4.txt → dm#5.txt → dm#6.txt
+
+Chapter 10 (Ocean):
+ch10/oc#1.txt → oc#2.txt → oc#3.txt → oc#4.txt → oc#5.txt → oc#6.txt
+
+Chapter 11 (Wasteland):
+ch11/vs#1.txt → vs#2.txt → vs#3.txt → vs#4.txt → vs#5.txt → vs#6.txt
+
+Chapter 12 (Crystal):
+ch12/cv#1.txt → cv#2.txt → cv#3.txt → cv#4.txt → cv#5.txt → cv#6.txt
+
+Chapter 13 (Time Machine):
+ch13/tm#1.txt → tm#2.txt → tm#3.txt → tm#4.txt → tm#5.txt → tm#6.txt
+
+Chapter 14 (Sky):
+ch14/nf#1.txt → nf#2.txt → nf#3.txt → nf#4.txt → nf#5.txt → nf#6.txt
+
+Chapter 15 (Ghost):
+ch15/gh#1.txt → gh#2.txt → gh#3.txt → gh#4.txt → gh#5.txt → gh#6.txt
+
+Chapter 16 (Shadows):
+ch16/sh#1.txt → sh#2.txt → sh#3.txt → sh#4.txt → sh#5.txt → sh#6.txt
+
+Chapter 17 (Reality):
+ch17/rb#1.txt → rb#2.txt → rb#3.txt → rb#4.txt → rb#5.txt → rb#6.txt
+
+Chapter 18 (Finale):
+ch18/fn#1.txt → fn#2.txt → fn#3.txt → fn#4.txt → fn#5.txt → fn#6.txt
 ```
 
 ---
 
 ## Notes
 
+- Chapters 0-7 — original story
+- Chapters 8-18 — continuation where Pozzi passes 1800 more levels and returns home
+- Finale in Chapter 18: Pozzi lives happily in Miami without bugs or stairs
+- The kill counter reaches **1800** by the end of Chapter 18
 - This is an **English translation** of the original Russian story "Vertigo" (Вертиго)
-- The story is ongoing ("To be continued..." at the end of each chapter)
-- Chapter 1 ends with "End of Part One"
-- All names are transliterated: Pozzi (Поззи), MORGENSTERN, etc.
-- The kill counter reaches **1538** by the end of Chapter 3
+- All names are transliterated: Pozzi (Поззи), MORGENSTERN, uwogylu, wittylunar, Luna, etc.
 
 ---
 
