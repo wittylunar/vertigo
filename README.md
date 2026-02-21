@@ -6,7 +6,7 @@
 
 ## 📖 About
 
-**Vertigo** is an absurdist action-adventure story following **Pozzi** (Поззи), a relentless warrior who keeps a notebook counting his kills. After winning a mysterious "DANGER" jackpot at a Las Vegas casino, he finds himself trapped in a 355-floor building filled with:
+**Vertigo** is an absurdist action-adventure story following **Pozzi** (Поззи), a relentless warrior who keeps a notebook counting his kills. After winning a mysterious "DANGER" jackpot at a Las Vegas casino, he finds himself trapped in a building filled with:
 
 - 🐺 Mutated furries of various danger classes
 - ☢️ Resurrecting enemies (Tony Stark, MORGENSTERN)
@@ -14,6 +14,8 @@
 - 🌀 Surreal physics and dream logic
 - 🎰 Soviet-themed underground casinos
 - ⏰ Time loops and parallel realities
+- 💻 Glitches, hackers, and AI administrators
+- 🌊 Underwater cities, post-apocalyptic wastelands, and celestial realms
 
 The story blends **dark comedy**, **action**, and **absurdist fiction** with video game logic (cheat codes, respawn mechanics, kill counters).
 
@@ -26,13 +28,43 @@ vertigo-ru/          # Original Russian version
 ├── ch0/             # Prologue (11 files)
 ├── ch1/             # Casino Arc (7 files)
 ├── ch2/             # Dream Arc (5 files)
-└── ch3/             # Airspace Arc (8 files)
+├── ch3/             # Airspace Arc (8 files)
+├── ch4/             # Glitch Arc (9 files)
+├── ch5/             # Arctic Arc (6 files)
+├── ch6/             # Iraq Arc (6 files)
+├── ch7/             # Original Finale (1 file)
+├── ch8/             # Reboot (6 files)
+├── ch9/             # Author Arc (6 files)
+├── ch10/            # Ocean Arc (6 files)
+├── ch11/            # Wasteland Arc (6 files)
+├── ch12/            # Crystal Arc (6 files)
+├── ch13/            # Time Machine Arc (6 files)
+├── ch14/            # Sky Arc (6 files)
+├── ch15/            # Ghost Arc (6 files)
+├── ch16/            # Shadows Arc (6 files)
+├── ch17/            # Reality Arc (6 files)
+└── ch18/            # Finale (6 files)
 
 vertigo-en/          # English translation (AI-generated)
 ├── ch0/             # Prologue
 ├── ch1/             # Casino Arc
 ├── ch2/             # Dream Arc
-└── ch3/             # Airspace Arc
+├── ch3/             # Airspace Arc
+├── ch4/             # Glitch Arc
+├── ch5/             # Arctic Arc
+├── ch6/             # Iraq Arc
+├── ch7/             # Original Finale
+├── ch8/             # Reboot
+├── ch9/             # Author Arc
+├── ch10/            # Ocean Arc
+├── ch11/            # Wasteland Arc
+├── ch12/            # Crystal Arc
+├── ch13/            # Time Machine Arc
+├── ch14/            # Sky Arc
+├── ch15/            # Ghost Arc
+├── ch16/            # Shadows Arc
+├── ch17/            # Reality Arc
+└── ch18/            # Finale
 ```
 
 ---
@@ -45,8 +77,23 @@ vertigo-en/          # English translation (AI-generated)
 | **Ch. 1** | `cs#1` → `cs#7` | Casino Arc: Jackpot → Nuclear Sunset |
 | **Ch. 2** | `mm#1` → `mm#5` | Dream Arc: Saratov captivity → Escape |
 | **Ch. 3** | `sp#1` → `sp#8` | Airspace: Helicopter crash → Black hole |
+| **Ch. 4** | `wi#-1234` → `wi#7` | Glitch Arc: Venom ban, hacker wittylunar, reality deletion |
+| **Ch. 5** | `arg#1` → `arg#6` | Arctic Arc: Penguin hackers, uwogylu, Optimus Primes |
+| **Ch. 6** | `irk#1` → `irk#6` | Iraq Arc: Bomboclat phones, Dexter Morgan, diamond factory |
+| **Ch. 7** | `mia#1` | Original Finale: Return to Miami |
+| **Ch. 8** | `la#1` → `la#6` | Reboot: Vertigo 2.0, Luna, cyberpunk city |
+| **Ch. 9** | `dm#1` → `dm#6` | Author Arc: Becoming co-author of Vertigo |
+| **Ch. 10** | `oc#1` → `oc#6` | Ocean Arc: Atlantis, Kraken, mirror maze |
+| **Ch. 11** | `vs#1` → `vs#6` | Wasteland Arc: Bunker survivors, garden of peace |
+| **Ch. 12** | `cv#1` → `cv#6` | Crystal Arc: Heart of Vertigo, throne room |
+| **Ch. 13** | `tm#1` → `tm#6` | Time Machine: Past/future visions, shadow merge |
+| **Ch. 14** | `nf#1` → `nf#6` | Sky Arc: Flight to 1800th, farewell to Luna |
+| **Ch. 15** | `gh#1` → `gh#6` | Ghost Arc: City of ghosts, mountain climb |
+| **Ch. 16** | `sh#1` → `sh#6` | Shadows: Forgiveness test, room of choice |
+| **Ch. 17** | `rb#1` → `rb#6` | Reality: Ordinary life in Miami |
+| **Ch. 18** | `fn#1` → `fn#6` | **Finale**: Happy ending, new beginning |
 
-**Total:** 31 files, ~50,000+ words
+**Total:** 131 files across 19 chapters
 
 ---
 
@@ -66,12 +113,13 @@ vertigo-en/          # English translation (AI-generated)
 - Action-Adventure
 - Science Fiction / Dreamcore
 - Video Game Logic
+- Metafiction
 
 ---
 
 ## 📝 Status
 
-**Ongoing** — Each chapter ends with "To be continued..." (Продолжение следует...)
+**Complete** — The main story concludes in Chapter 18 with Pozzi finding peace in Miami.
 
 ---
 
@@ -79,7 +127,7 @@ vertigo-en/          # English translation (AI-generated)
 
 1. Start with [`vertigo-ru/ch0/tt#0.txt`](./vertigo-ru/ch0/tt%230.txt) (Disclaimer)
 2. Read files in numerical order within each chapter
-3. Proceed through chapters: ch0 → ch1 → ch2 → ch3
+3. Proceed through chapters: ch0 → ch1 → ... → ch18
 
 Or read the English version in [`vertigo-en/`](./vertigo-en/)
 
@@ -91,4 +139,4 @@ Creative fiction project. All rights reserved.
 
 ---
 
-*Kill counter: 1538+ (and counting...)*
+*Kill counter: 1800 (complete)*
